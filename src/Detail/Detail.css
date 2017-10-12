@@ -1,0 +1,61 @@
+.Detail {
+  font-size: 18px;
+  color: #333
+}
+
+h3 {
+	margin-bottom: 0px;
+}
+
+#listCurOptions li {
+	text-align: center;
+}
+
+#pollNameDiv {
+	margin-bottom: 3%;
+}
+
+#descBtn {
+	margin-bottom: 3%;
+}
+
+#pollDescDiv {
+	margin-bottom: 3%;
+	display: none;
+}
+
+#numWinnersDiv {
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 3%;
+	float: left;
+}
+
+#input-group {
+	margin-left: 0px;
+}
+.render-option-item {
+	width: 30%;
+	margin-left: 30%;
+	position: relative;
+}
+.render-option-item p {
+	display: inline-block;
+	margin-left: 0px;
+}
+#remFab {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	margin-left: 5%;
+}
+
+#createPollBtn {
+	float: right;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+#createPollBtn:clicked {
+	float: right;
+	margin-right: 5%;
+}

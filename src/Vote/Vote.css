@@ -1,0 +1,38 @@
+.Vote {
+  font-size: 18px;
+  color: #333
+}
+
+li {
+  text-align: left;
+  list-style-type: none;
+}
+
+#voteDiv {
+  width: 85%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#vote-options-div {
+  max-width: 30vw;
+  list-style-type: none;
+  margin: 0 auto;
+  float: left;
+  padding-left: 20px;
+}
+
+#vote-choices-div {
+  max-width: 30vw;
+  list-style-type: none;
+  float: right;
+  margin: 0px auto;
+}
+
+.Vote-options{
+  
+}
+
+.Vote-choices{
+  text-align: left;
+}

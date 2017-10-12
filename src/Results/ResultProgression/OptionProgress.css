@@ -1,0 +1,41 @@
+.option-progress {
+  width: 95%;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.option-progress-title {
+  padding: 10px;
+  text-align: left;
+}
+
+.option-progress-text {
+  padding: 10px;
+}
+
+.mdc-card__supporting-text:last-child {
+  padding-bottom: 5px;
+}
+
+.progression-svg-container {
+  padding: 5px 5px 5px 2px;
+}
+
+.progression-rect-svg {
+  fill:rgba(255, 0, 0, 0.8);
+  stroke-width: 2px;
+  stroke:#520000;
+}
+
+.option-number-votes {
+  transform: translateY(55px);
+}
+
+.winnner-progress {
+  background-color: #C8E6C9; 
+}
+
+.candidate-progress {
+  background-color: #ECEFF1;
+}

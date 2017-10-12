@@ -1,0 +1,60 @@
+#winners .mdc-card {
+  background-color: #C8E6C9;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#losers {
+  margin-top: 100px;
+}
+
+#losers .mdc-card {
+  background-color: #ECEFF1;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.result {
+  margin-bottom: 5px;
+}
+
+.mdc-card__title {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.carousel.carousel-slider {
+  width: 80% !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carousel .slide, .carousel .slide.selected{
+  background: white;
+}
+
+.control-arrow.control-next {
+  color: black;
+}
+
+.carousel.carousel-slider .control-arrow {
+  color: black;
+}
+
+.carousel .control-next.control-arrow:before {
+  border-left: 8px solid #000;
+}
+
+.carousel .control-prev.control-arrow:before {
+  border-right: 8px solid #000;
+}
+
+.carousel-status {
+  display: none;
+}
+
+.dot {
+  background: #000 !important;
+}

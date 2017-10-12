@@ -1,0 +1,68 @@
+.Home {
+  font-size: 18px;
+  color: #333;
+  min-width: 665px;
+}
+
+.addPoll {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	margin: 1em;
+}
+
+.pollDetails {
+	background-color: #CCCCCC;
+	border-radius: 10px;
+	padding: 1em, 1em, 1em, 1em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0em;
+	box-shadow: 2px 5px 10px #888888;
+	height: 3em;
+}
+
+.ballotsSum {
+	padding-left: 35%;
+}
+
+.pollText {
+	padding-top: 18px;
+	padding-left: 1em;
+	height: auto;
+}
+
+.pollRole {
+	padding-left: 5%;
+	position: relative;
+}
+
+.pollTitle {
+	float: left;
+	height: 1.4em;
+	width: 35%;
+	margin-top: 0;
+	margin-bottom: 0;
+	overflow: hidden;
+}
+
+.closeButton {
+	left: 15%;
+	position: relative;
+}
+
+a:link {
+	color: orange;
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	text-decoration: none;
+}
